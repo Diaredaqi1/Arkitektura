@@ -1,1 +1,1 @@
-# Arkitektura
+# Arkitektura e kompjutereve
